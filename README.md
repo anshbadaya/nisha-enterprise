@@ -1,23 +1,23 @@
-# Nisha Enterprise - Free bootstrap construction template
+# Nisha Enterprise
 
-Nisha Enterprise is a theme for professional builders, construction or even industrial production companies with a focus on presenting the team, current and recent projects. Responsive development of the layouts makes the theme look good on any modern device.
+The Nisha Enterprise was established in 2021 and is a general contractor offering
+construction services in terms of Site Execution.
 
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage-1.png)](https://demo.Nisha Enterprise.com/Nisha Enterprise/) | [![](screenshots/homepage-2.png)](https://demo.Nisha Enterprise.com/Nisha Enterprise/index-2.html) | [![](screenshots/about.png)](https://demo.Nisha Enterprise.com/Nisha Enterprise/about.html) |
+| [![](screenshots/homepage-1.png)](https://nisha-enterprise/index.html/) | [![](screenshots/homepage-2.png)](https://nisha-enterprise/about.html)
 |:---:|:---:|:---:|
-| **Homepage 1**  | **Homepage 2**  | **About**  |
-| [![](screenshots/service.png)](https://demo.Nisha Enterprise.com/Nisha Enterprise/services.html) | [![](screenshots/project.png)](https://demo.Nisha Enterprise.com/Nisha Enterprise/projects.html) | [![](screenshots/news.png)](https://demo.Nisha Enterprise.com/Nisha Enterprise/news-right-sidebar.html) |
-| **Service** | **Project** | **News** |
+| **Homepage 1**  | **About**  |
+| [![](screenshots/service.png)](https://nisha-enterprise/service.html) | [![](screenshots/project.png)](https://nisha-enterprise/prohject.html)
+| **Service** | **Project** |
 
 👉🏻[View Live Preview](https://demo.Nisha Enterprise.com/Nisha Enterprise/)
 
 <!-- resources -->
 ## Pages
 
-* **Homepage 1**
-* **Homepage 2**
+* **Homepage **
 * **About**
 * **Services**
 * **Service Details**
@@ -26,18 +26,14 @@ Nisha Enterprise is a theme for professional builders, construction or even indu
 * **Pricing**
 * **Team**
 * **Testimonials**
-* **News Left Sidebar**
-* **News Right Sidebar**
-* **News Details**
 * **FAQ**
 * **404**
-* **Typography**
 * **Contact**
 
 <!-- download -->
-## Download And installation
+## Download And Installation
 
-Download this template from [Github](https://github.com/Nisha Enterprise/Nisha Enterprise/archive/main.zip)
+Download this repository from [Github](https://github.com/anshbadaya/nisha-enterprise)
 
 <!-- installation -->
 ### Basic Usages
@@ -79,7 +75,7 @@ After that, it will open up a preview of the template in your default browser, w
 
 #### Production Build
 
-After fiNishaing all the customization, you can create a production build by running this command.
+After finishing all the customization, you can create a production build by running this command.
 
 ```
 npm run build
@@ -92,20 +88,20 @@ Now you get a `theme` folder that has all the changes you have made. you can use
 <!-- reporting issue -->
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Nisha Enterprise Template. Please Search [existing issues](https://github.com/Nisha Enterprise/Nisha Enterprise-Bootstrap-Construction-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/Nisha Enterprise/Nisha Enterprise-Bootstrap-Construction-Template/issues).
+We use GitHub Issues as the official bug tracker for the Nisha Enterprise Template. Please Search [existing issues](https://github.com/anshbadaya/nisha-enterprise/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/anshbadaya/nisha-enterprise/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@Nisha Enterprise.com) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](mailto:me.anshbadaya@gmail.com) instead of opening an issue.
 
 <!-- licence -->
 ## License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Nisha Enterprise](https://Nisha Enterprise.com)
+Copyright (c) 2023 - Present, Designed & Developed by [Nisha Enterprise](https://nisha-enterprise.com)
 
-**Code License:** Released under the [MIT](https://github.com/Nisha Enterprise/Nisha Enterprise/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/anshbadaya/nisha-enterprise/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
