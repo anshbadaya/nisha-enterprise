@@ -6,15 +6,16 @@ construction services in terms of Site Execution.
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage-1.png)](https://nisha-enterprise/index.html/) | [![](screenshots/homepage-2.png)](https://nisha-enterprise/about.html)
-| [![](screenshots/service.png)](https://nisha-enterprise/service.html) | [![](screenshots/project.png)](https://nisha-enterprise/prohject.html)
+[![](screenshots/index.png)](https://nisha-enterprise/index.html/)
+[(screenshots/about.png)](https://nisha-enterprise/about.html)
+[![](screenshots/contact.png)](https://nisha-enterprise/contact.html)
 
-👉🏻[View Live Preview](https://demo.Nisha Enterprise.com/Nisha Enterprise/)
+👉🏻[View Live Preview](https://nisha-enterprise.com/)
 
 <!-- resources -->
 ## Pages
 
-* **Homepage **
+* **Homepage**
 * **About**
 * **Services**
 * **Service Details**
