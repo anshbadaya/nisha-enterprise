@@ -1,6 +1,6 @@
-# Nisha Enterprise
+# Nisha Enterprise Bootstraped Website
 
-The Nisha Enterprise was established in 2021 and is a general contractor offering
+Nisha Enterprise was established in 2021 and is a general contractor offering
 construction services in terms of Site Execution.
 
 <!-- demo -->
