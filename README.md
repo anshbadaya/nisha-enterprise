@@ -7,7 +7,6 @@ construction services in terms of Site Execution.
 ## Example Site
 
 | [![](screenshots/homepage-1.png)](https://nisha-enterprise/index.html/) | [![](screenshots/homepage-2.png)](https://nisha-enterprise/about.html)
-|:---:|:---:|:---:|
 | **Homepage 1**  | **About**  |
 | [![](screenshots/service.png)](https://nisha-enterprise/service.html) | [![](screenshots/project.png)](https://nisha-enterprise/prohject.html)
 | **Service** | **Project** |
@@ -94,12 +93,10 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 <!-- support -->
 ## Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](mailto:me.anshbadaya@gmail.com) instead of opening an issue.
+If you have questions or need help integrating the product please [contact me](mailto:me.anshbadaya@gmail.com) instead of opening an issue.
 
 <!-- licence -->
 ## License
-
-Copyright (c) 2023 - Present, Designed & Developed by [Nisha Enterprise](https://nisha-enterprise.com)
 
 **Code License:** Released under the [MIT](https://github.com/anshbadaya/nisha-enterprise/blob/master/LICENSE) license.
 
