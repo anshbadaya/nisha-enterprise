@@ -7,7 +7,7 @@ construction services in terms of Site Execution.
 ## Example Site
 
 [![](screenshots/index.png)](https://nisha-enterprise/index.html/)
-[(screenshots/about.png)](https://nisha-enterprise/about.html)
+[![](screenshots/about.png)](https://nisha-enterprise/about.html)
 [![](screenshots/contact.png)](https://nisha-enterprise/contact.html)
 
 👉🏻[View Live Preview](https://nisha-enterprise.com/)
